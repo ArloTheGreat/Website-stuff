@@ -1,9 +1,4 @@
-h1{
-color: red;
-}
-p{
-color: red;
-}
-h3{
-color: red;
+body {
+    background-color: red;
+    color: antiquewhite;
 }
